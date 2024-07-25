@@ -1,15 +1,4 @@
 
-
-//   const changeFirstName = (e) => {
-//     const value = e.target.value;
-//     if (/^[a-zA-Z\s]*$/.test(value)) {
-//       setFirstName(value);
-//       setErrors((prevErrors) => ({ ...prevErrors, firstName: '' }));
-//     } else {
-//       setErrors((prevErrors) => ({ ...prevErrors, firstName: 'First name can only contain letters' }));
-//     }
-//   };
-
 //   const changeLastName = (e) => {
 //     const value = e.target.value;
 //     if (/^[a-zA-Z\s]*$/.test(value)) {
