@@ -13,7 +13,7 @@ const EditProfile = () => {
     // Here you can implement the logic to save the profile data
     console.log('Profile saved:', { name, email, location, age, bio });
   };
-
+// function
   return (
     <div style={{ width: '500px', margin: '0 auto', padding: '30px', border: '5px solid #d2a679', borderRadius: '10px', backgroundColor: '#fff3e0' }}>
       <h2 style={{ marginBottom: '20px', textAlign: 'center', color: '#b5651d', fontWeight: 'bold' }}>Edit Profile</h2>
