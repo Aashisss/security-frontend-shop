@@ -1,9 +1,3 @@
-// import React, { useEffect, useState } from "react";
-// import { FiArrowRight } from "react-icons/fi";
-// import { useParams } from "react-router-dom";
-// import { toast } from "react-toastify";
-// import { create_order, getAllProductsApi } from "../apis/Api";
-
 // const HomePage = () => {
 //   const [products, setProducts] = useState([]);
 //   const [searchQueryUsers, setSearchQueryUsers] = useState("");
