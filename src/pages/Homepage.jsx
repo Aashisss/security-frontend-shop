@@ -1,11 +1,3 @@
-// const HomePage = () => {
-//   const [products, setProducts] = useState([]);
-//   const [searchQueryUsers, setSearchQueryUsers] = useState("");
-//   const { id } = useParams();
-//   const [cart, setCart] = useState([]);
-//   const [cartValue, setCartValue] = useState(1);
-//   const [userData, setUserData] = useState(null);
-//   const [favorites, setFavorites] = useState([]);
 
 //   useEffect(() => {
 //     getAllProductsApi(id).then((res) => {
