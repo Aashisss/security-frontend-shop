@@ -1,13 +1,6 @@
 
 
-//   const handleSearchUsers = (e) => {
-//     e.preventDefault();
-//     const filteredUsers = products.filter((product) => {
-//       const lowerCaseQuery = searchQueryUsers.toLowerCase();
-//       return product.productName.toLowerCase().includes(lowerCaseQuery);
-//     });
-//     setProducts(filteredUsers);
-//   };
+
 
 //   const addToCart = (index) => {
 //     const storedUserData = JSON.parse(localStorage.getItem("user"));
