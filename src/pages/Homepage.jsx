@@ -2,17 +2,7 @@
 
 
 
-//   const addToCart = (index) => {
-//     const storedUserData = JSON.parse(localStorage.getItem("user"));
-//     setUserData(storedUserData);
-//     const productToAdd = products[index];
-//     if (!cart.find((item) => item.id === productToAdd._id)) {
-//       const orderData = {
-//         userId: storedUserData._id,
-//         productId: productToAdd._id,
-//         orderId: index.toString(),
-//         quantity: cartValue,
-//       };
+
 //       create_order(orderData)
 //         .then((res) => {
 //           if (res.data.success === false) {
