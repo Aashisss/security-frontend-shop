@@ -1,9 +1,4 @@
 
-//   useEffect(() => {
-//     getAllProductsApi(id).then((res) => {
-//       setProducts(res.data.products);
-//     });
-//   }, []);
 
 //   const handleSearchUsers = (e) => {
 //     e.preventDefault();
