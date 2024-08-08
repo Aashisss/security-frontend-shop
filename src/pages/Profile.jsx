@@ -1,5 +1,5 @@
 import React from 'react';
-// profile update
+
 const Profile = () => {
   return (
     <div style={{ 
