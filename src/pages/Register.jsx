@@ -1,12 +1,4 @@
 
-// const Register = () => {
-//   const [firstName, setFirstName] = useState('');
-//   const [lastName, setLastName] = useState('');
-//   const [email, setEmail] = useState('');
-//   const [password, setPassword] = useState('');
-//   const [confirmPassword, setConfirmPassword] = useState('');
-//   const [passwordStrength, setPasswordStrength] = useState({ strength: "None", color: "black", percent: 0 });
-//   const [errors, setErrors] = useState({});
 
 //   const changeFirstName = (e) => {
 //     const value = e.target.value;
