@@ -1,7 +1,3 @@
-// import React, { useState } from 'react';
-// import { registerApi } from '../apis/Api';
-// import { toast } from 'react-toastify';
-// import zxcvbn from 'zxcvbn';
 
 // const Register = () => {
 //   const [firstName, setFirstName] = useState('');
